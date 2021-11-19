@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Silent Print", "Silent Print\Silent Print.csproj", "{9C7683C3-A8C0-4534-B753-F0B00E2BD1FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Updater", "Updater\Updater.csproj", "{BE3A8593-BB35-4A21-99D8-C360E7938998}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C7683C3-A8C0-4534-B753-F0B00E2BD1FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7683C3-A8C0-4534-B753-F0B00E2BD1FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7683C3-A8C0-4534-B753-F0B00E2BD1FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7683C3-A8C0-4534-B753-F0B00E2BD1FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE3A8593-BB35-4A21-99D8-C360E7938998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3A8593-BB35-4A21-99D8-C360E7938998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3A8593-BB35-4A21-99D8-C360E7938998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3A8593-BB35-4A21-99D8-C360E7938998}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BAB90E9-38C0-45F6-97AC-1A94678F9012}
+	EndGlobalSection
+EndGlobal
